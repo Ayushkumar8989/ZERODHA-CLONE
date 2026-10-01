@@ -1,4 +1,5 @@
 import './App.css'
+import HomePage from './landing/home/HomePage'
 
 function App() {
   
@@ -6,7 +7,7 @@ function App() {
   return (
     <>
       
-      <h1>Hello world</h1>  
+      <HomePage/>
 
       
     </>
